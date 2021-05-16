@@ -1,12 +1,12 @@
 {
-    "name": "dot",
+    "name": "Sliver",
     "versions": {
         "dot": "0.0.1",
         "firefox-display": "87.0",
         "firefox": "87.0",
         "melon": "0.0.1"
     },
-    "repository": "https://github.com/dothq/browser-desktop",
+    "repository": "https://github.com/SandroLinux/browser-desktop/",
     "license": "MPL-2.0",
     "dependencies": {
         "@octokit/rest": "^18.3.5",
